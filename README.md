@@ -40,9 +40,18 @@ Our analysis aims to provide insights into whether opening a closer location or 
 
 ## Results:
 
+![image](https://github.com/Samarth1337/restaurant_recommendation_likelihood_study/assets/42602263/35a5e16b-dde7-4ec2-b1af-ce1a9674470c)
+
+
 The statistical analyses revealed a significant main effect of time on restaurant recommendations (F(1, 65) = 67.139, p < .001).
 However, there were no significant effects observed for the scenarios of offering discounts or opening new locations (F(1, 65) = 0.651, p = .423).
 Limited power affected the ability to detect small effects, particularly in the scenario conditions, with a power of .1547.
+
+![image](https://github.com/Samarth1337/restaurant_recommendation_likelihood_study/assets/42602263/b7cc277d-c319-4524-b995-017a71ebf4ef)
+
+![image](https://github.com/Samarth1337/restaurant_recommendation_likelihood_study/assets/42602263/195f2556-5333-4bc8-a7ee-cd195b12c118)
+
+
 
 ## Conclusions:
 
