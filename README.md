@@ -13,6 +13,31 @@ Statistical analyses: We utilize 2-way ANOVA tests to analyze the data, revealin
 Limited power: Our study acknowledges limitations in detecting small effects due to limited statistical power.
 Importance of interpretation: We emphasize the importance of interpreting findings cautiously, considering sample limitations and scenario complexity.
 
+## Hypotheses:
+
+
+### Main Effect of Scenario Type:
+Purpose: This will allow us to determine which scenario has a larger effect on the number of times the participant suggests their favorite restaurant.
+Null Hypothesis (H0): There is no significant difference in the number of restaurant suggestions between the Discount and New Location scenarios.
+Alternative Hypothesis (H1): There is a significant difference in the number of restaurant suggestions between the Discount and New Location scenarios.
+
+### Main Effect of Time:
+Purpose: This will allow us to determine if either scenario affects the number of times the participant suggests their favorite restaurant.
+Null Hypothesis (H0): There is no significant difference in the number of restaurant suggestions between the Before and After time points.
+Alternative Hypothesis (H1): There is a significant difference in the number of restaurant suggestions between the Before and After time points.
+ 
+### Significance Level:
+We will set the significance level (alpha) at 0.05, indicating a 5% chance of Type I error. This threshold is commonly used in hypothesis testing.
+ 
+### Scenario Type (Discount vs. New Location):
+This factor represents the experimental conditions for randomly assigning participants. It enables us to evaluate whether introducing a discount or opening a new location significantly impacts the frequency of restaurant suggestions.
+ 
+### Time (Before vs. After):
+This within-subject factor accounts for the temporal aspect of our study. By measuring participant behavior before and after the implementation of the assigned scenario, we can assess any changes that occur over time.
+ 
+Our analysis aims to provide insights into whether opening a closer location or offering a discount would lead participants to suggest their favorite restaurant more frequently. By examining the main effects and interaction, we can discern which scenario has a more pronounced impact on participant behavior.
+
+
 ## Results:
 
 The statistical analyses revealed a significant main effect of time on restaurant recommendations (F(1, 65) = 67.139, p < .001).
